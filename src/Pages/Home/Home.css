@@ -1,0 +1,31 @@
+.home-title {
+      color: #FFF;
+      font-family: "Bebas Neue";
+      font-size: 97.684px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+}
+
+.home-p {
+      color: #FFF;
+      font-family: Montserrat;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 24px;
+      margin-bottom: 24px;
+}
+
+.home-slider-place {
+      color: #FFF;
+      font-family: "Bebas Neue";
+      font-size: 36px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+}
+
+.sajek {
+      background: linear-gradient(0deg, #000 0.1%, rgba(0, 0, 0, 0.00) 69.96%);
+}

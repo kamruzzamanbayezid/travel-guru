@@ -1,0 +1,29 @@
+[
+      {
+            "id": 1,
+            "title": "Sajek",
+            "description": "Sajek Valley, often referred to as the 'Queen of Hills', is a beautiful and serene destination located in the Rangamati District. It is known for its stunning landscapes, rolling hills, and vibrant tribal culture. Visitors can enjoy breathtaking views of the mountains and valleys, visit local tribal villages, and experience the unique culture of the indigenous people. Sajek is an ideal place for relaxation, hiking, and photography.",
+            "destinationFrom": "Dhaka",
+            "destinationTo": "Sajek",
+            "dateFrom": "2024-09-15",
+            "dateTo": "2024-09-20"
+      },
+      {
+            "id": 2,
+            "title": "Sreemangal",
+            "description": "Sreemangal is known as the tea capital of Bangladesh, renowned for its tea gardens, rainforests, and wildlife. The area is perfect for nature walks, bird watching, and exploring the Lawachara National Park. Sreemangal is also famous for the unique 'seven-layer tea' which is a must-try. The Madhabpur Lake and the surrounding hills offer a tranquil escape from the hustle and bustle of city life.",
+            "destinationFrom": "Dhaka",
+            "destinationTo": "Sreemangal",
+            "dateFrom": "2024-08-05",
+            "dateTo": "2024-08-10"
+      },
+      {
+            "id": 3,
+            "title": "Sundarban",
+            "description": "Sundarban, the largest mangrove forest in the world, is a UNESCO World Heritage site. It is home to the majestic Bengal tiger and a diverse range of flora and fauna. Visitors can explore the dense forests, cruise through the waterways, and spot various wildlife including crocodiles, dolphins, and a variety of bird species. The tranquil environment and the unique ecosystem make Sundarban a fascinating destination for nature enthusiasts.",
+            "destinationFrom": "Dhaka",
+            "destinationTo": "Sundarban",
+            "dateFrom": "2024-10-10",
+            "dateTo": "2024-10-15"
+      }
+]
